@@ -27,7 +27,6 @@ https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
 ![Image 2](https://raw.githubusercontent.com/benoitmarsot/JumpingChan/master/Img/jc2.jpg)
 ![Image 3](https://raw.githubusercontent.com/benoitmarsot/JumpingChan/master/Img/jc3.jpg)
 ![Image 4](https://raw.githubusercontent.com/benoitmarsot/JumpingChan/master/Img/jc4.jpg)
-![Image 5](https://raw.githubusercontent.com/benoitmarsot/JumpingChan/master/Img/jc5.jpg)
 ![Image 6](https://raw.githubusercontent.com/benoitmarsot/JumpingChan/master/Img/jc6.jpg)
 ![Image 7](https://raw.githubusercontent.com/benoitmarsot/JumpingChan/master/Img/jc7.jpg)
 ![Image 8](https://raw.githubusercontent.com/benoitmarsot/JumpingChan/master/Img/jc8.jpg)
