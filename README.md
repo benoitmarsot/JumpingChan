@@ -1,6 +1,6 @@
 # Jumping Chan
 ## Author: Benoit Marsot
-![img1](https://raw.githubusercontent.com/benoitmarsot/JumpingChan/master/Img/jc12.png)
+![img1](https://raw.githubusercontent.com/benoitmarsot/JumpingChan/master/Img/jc12.jpg)
 Jumping Chan is a #MRTK #Hololens2 game, the player the user control different sizes Chan, running and jumping around the room, the floor is lava option may be used, in which case when Chan touch the floor she dies and comeback to her starting stand. 
 
 Animations and controls are an adaptation of "third person character" made by: Aaron Hibberd, 
